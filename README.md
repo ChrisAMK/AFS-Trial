@@ -1,2 +1,2 @@
-# AFS-Trial
-Demo Website for AFS
+# AFS
+Afs Demo Site
